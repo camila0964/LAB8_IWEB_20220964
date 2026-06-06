@@ -72,7 +72,7 @@
   <% } %>
   <% } else { %>
   <tr>
-    <td colspan="8" class="text-center text-muted">No se encontraron mascotas registradas para este criterio.</td>
+    <td colspan="8" class="text-center text-muted">No se encontraron mascotas registradas.</td>
   </tr>
   <% } %>
   </tbody>
